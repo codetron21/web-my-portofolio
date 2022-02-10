@@ -1,7 +1,11 @@
-# Web Portofolio
+# Workshop Task MySkill.id
 
-## Workshop task from MySkill.id
+## Portfolio Web Ada
 
 #### Wireframe
 
-![Screenshot](./wireframe/profile.png)
+<img src="./mockup/wireframe/portfolio-wireframe.png" width="300">
+
+#### Design
+
+<img src="./mockup/design/portfolio-design.png" width="300">

@@ -1,0 +1,122 @@
+a {
+  text-decoration: none;
+}
+
+h1,
+h3,
+h4,
+h5 {
+  font-weight: bold;
+}
+
+p {
+  margin: 0;
+}
+
+/*----- Header -----*/
+.header-portfolio {
+  color: #ffffff;
+  background-color: #3bd580;
+  box-shadow: 0 1px 10px #072f40;
+  text-align: center;
+}
+
+.icon-profile {
+  width: 24px;
+  height: 24px;
+}
+
+.link-profile-container a:active,
+a:visited,
+a:link {
+  color: #072f40;
+}
+
+.link-profile-container a:hover {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.name-profile {
+  margin-top: 20px;
+}
+
+.photo-profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  box-shadow: 0 0 8px #072f40;
+  border-width: 3px;
+  border-color: #158d4b;
+  border-style: solid;
+  object-fit: cover;
+}
+
+.profile-hr-line {
+  width: 50%;
+  border: 2px solid #072f40;
+  border-radius: 1px;
+}
+
+/*----- Main -----*/
+
+.about-me-profile {
+  text-align: center;
+}
+
+.dot-line {
+  margin: 0 auto;
+  background-color: #ffffffff;
+  width: 10%;
+  border-top: 10px dotted #072f40;
+}
+
+.main-portfolio p {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.main-portfolio {
+  color: #072f40;
+}
+
+.mobile-project,
+.backend-project {
+  text-align: center;
+}
+
+.screenshot-project {
+  width: 263px;
+  height: 293px;
+  border-radius: 24px;
+  box-shadow: 0 0 10px #072f40;
+  margin: 14px 0;
+  object-fit: cover;
+  object-position: 0 0;
+}
+
+.project-description {
+  display: inline-block;
+  margin: 20px 0;
+  text-align: start;
+}
+
+.project-desc-content {
+  color: white;
+  border-radius: 100px;
+  background-color: #3bd580;
+  padding: 2px 8px;
+}
+
+.project-desc-label {
+  font-weight: bold;
+}
+
+/*----- footer -----*/
+.footer-portfolio {
+  color: #ffffff;
+  background-color: #3bd580;
+  box-shadow: 0 -1px 10px #072f40;
+  text-align: center;
+}
